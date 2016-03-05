@@ -5,6 +5,8 @@ public class Main {
 		// TODO Auto-generated method stub
 		System.out.println("test lok 2");
 		System.out.println("test lok 2");
+		
+               System.out.println("test or 2");
 	}
 
 }
